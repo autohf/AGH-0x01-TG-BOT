@@ -12,6 +12,7 @@ OVERVIEW
 - The bot NEVER discloses sensitive information.
 - It returns a base64-encoded POINTER (e.g., a URL you control) only if the user proves
   knowledge of a secret via HMAC, bound to a one-time nonce and the sender’s Telegram user id.
+  
 
 PLAYER FLOW (COMMAND-BASED)
 1) /challenge      → bot returns a one-time nonce (valid for NONCE_TTL seconds)
