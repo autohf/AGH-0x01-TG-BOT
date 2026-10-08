@@ -35,6 +35,10 @@ ENV (configure on host: Read from the enviroment file )
 1) HMAC_KEY_B64   : Base64-encoded random bytes (recommended: 32 bytes)
 
 
+TODO:
+
+SWITCH to AI
+
 
 """
 
